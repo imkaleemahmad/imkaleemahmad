@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kaleem Ahmad.
+- 👀 I’m interested in Software Development, Websites Development, etc.
+- 🌱 I’m currently learning different programming languages and computer sciences.
+- 💞️ I’m looking to collaborate on anything related to software or web development
+- 📫 You can reach me on, mail.google.com/imkaleemahmad
