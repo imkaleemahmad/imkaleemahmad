@@ -4,6 +4,18 @@
 - 💞️ I’m looking to collaborate on anything related to software or web development
 - 📫 You can reach me on, mail.google.com/imkaleemahmad
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkaleemahmad&count_private=true&show_icons=true&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=imkaleemahmad&show_icons=true&theme=dark&show_icons=true&hide=prs"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=imkaleemahmad&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=imkaleemahmad&show_icons=true" />
+</picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkaleemahmad&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
