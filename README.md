@@ -16,6 +16,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=imkaleemahmad&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkaleemahmad&layout=compact&theme=dark&width=100%)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkaleemahmad&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
