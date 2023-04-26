@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,r,kotlin,java,nodejs,react,c,cpp)](https://skillicons.dev)
 
 - 👋 Hi, I’m Kaleem Ahmad.
 - 👀 I’m interested in Software Development, Websites Development, etc.
