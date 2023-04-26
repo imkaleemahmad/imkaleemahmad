@@ -1,5 +1,7 @@
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,r,kotlin,java,nodejs,react,c,cpp,photoshop,ruby,tensorflow)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,py,r,kotlin,java,nodejs,react,c,cpp,photoshop,ruby,tensorflow" />
+  </a>
 </p>
   
 - 👋 Hi, I’m Kaleem Ahmad.
