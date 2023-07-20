@@ -4,4 +4,7 @@
 - 👀 I'm deeply fascinated by the potential of AI and Machine Learning to transform various industries, as well as the insights that Data Science can uncover from vast amounts of information.
 - 🌱 As a learner, I'm currently exploring and expanding my knowledge in these fields, taking courses, and working on personal projects to gain hands-on experience.
 - 💞️ I'm always excited to collaborate with others who share similar interests with me. Working together on innovative projects can provide valuable learning experiences and help us grow as developers.
-- 📫 If you want to connect or discuss anything related to any technologies, feel free to reach me at mail.google.com/imkaleemahmad. I'm open to exchanging ideas and learning from fellow enthusiasts like yourself.
+- 📫 If you want to connect or discuss anything related to any technologies, feel free to reach me at [imkaleemahmad@gmail.com][gmail]
+. I'm open to exchanging ideas and learning from fellow enthusiasts like yourself.
+
+[gmail]: https://mail.google.com/imkaleemahmad
