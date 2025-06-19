@@ -1,4 +1,4 @@
-![Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,js,react,java,kotlin,html,css,nodejs,postgres,git,github,docker,aws,azure,gcp,oracle)
+![Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,js,react,java,kotlin,nodejs,postgres,git,github,docker,aws,azure,gcp,oracle)
 
 # 👋 Hello, I’m Kaleem Ahmad
 
@@ -25,9 +25,6 @@ Here are the topics I care about the most and work on regularly:
 
 🎓 **BS in Computer Science**  
 The University of Agriculture, Peshawar (2020–2024)  
-
-📜 **Thesis**  
-*Prompt-Driven Image Analysis: Integrating Gen-AI for Segmentation, Object Transformation, and Cognitive Interpretation.*
 
 ---
 
@@ -62,7 +59,7 @@ Educational platform combining language, audio, and embedded content in document
 - Integrated synthetic data into Xero for secure client demos.
 - Improved compliance, security, and data usability.
 
-### 🧠 AI Engineer (Freelance) | *Sep 2022 – Present*
+### 🧠 Data & AI Engineer (Freelance) | *Sep 2022 – Present*
 - Built predictive models (up to 98% accurate).
 - Designed interactive dashboards with Tableau, Power BI, Streamlit, and Shiny.
 - Worked on AI-based solutions in health, finance, and education.
@@ -104,6 +101,3 @@ Educational platform combining language, audio, and embedded content in document
 > ⚡ *Curious about AI? Working on medical imaging or a data-heavy product? Let’s build something intelligent together.*
 
 ---
-
-![Kaleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkaleemahmad&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imkaleemahmad&layout=compact&theme=tokyonight)
