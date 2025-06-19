@@ -1,4 +1,4 @@
-![Skills](https://skillicons.dev/icons?i=py,cpp,java,kotlin,js,ts,html,css,nodejs,react,vue,flutter,c,go,r,tensorflow,pytorch,keras,mysql,mongodb,postgres,aws,gcp,docker,git,github,figma,photoshop)
+![Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,js,react,java,kotlin,html,css,nodejs,postgres,git,github,docker,aws,azure,gcp,oracle)
 
 # 👋 Hello, I’m Kaleem Ahmad
 
