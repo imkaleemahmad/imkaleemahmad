@@ -1,5 +1,3 @@
-![Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,js,react,java,kotlin,nodejs,postgres,git,github,docker,aws,azure,gcp,oracle)
-
 # 👋 Hello, I’m Kaleem Ahmad
 
 I’m a Computer Scientist from **Peshawar, Pakistan**, passionate about using **AI**, **Machine Learning**, and **Computer Vision** to solve real-world problems and improve lives. I love exploring new technologies, especially those that bring intelligence to machines, insight to data, and creativity to apps.
@@ -101,3 +99,7 @@ Educational platform combining language, audio, and embedded content in document
 > ⚡ *Curious about AI? Working on medical imaging or a data-heavy product? Let’s build something intelligent together.*
 
 ---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,js,react,java,kotlin,nodejs,postgres,git,github,docker,aws,azure,gcp,oracle&theme=dark" alt="Skills" />
+</p>
