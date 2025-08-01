@@ -2,7 +2,7 @@
 
 I’m a Computer Scientist from **Peshawar, Pakistan**, passionate about using **AI**, **Machine Learning**, and **Computer Vision** to solve real-world problems and improve lives. I love exploring new technologies, especially those that bring intelligence to machines, insight to data, and creativity to apps.
 
-> “Dedicated to solving real-world problems and fostering wellbeing through technological advancements.”
+> “Pushing the boundaries of what’s possible turns today’s challenges into tomorrow’s solutions”
 
 ---
 
