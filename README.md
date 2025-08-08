@@ -57,11 +57,6 @@ Educational platform combining language, audio, and embedded content in document
 - Integrated synthetic data into Xero for secure client demos.
 - Improved compliance, security, and data usability.
 
-### 🧠 Data & AI Engineer (Freelance) | *Sep 2022 – Present*
-- Built predictive models (up to 98% accurate).
-- Designed interactive dashboards with Tableau, Power BI, Streamlit, and Shiny.
-- Worked on AI-based solutions in health, finance, and education.
-
 ---
 
 ## 🛠️ Tools & Technologies
