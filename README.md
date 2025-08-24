@@ -98,3 +98,7 @@ Educational platform combining language, audio, and embedded content in document
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,js,react,java,kotlin,nodejs,postgres,git,github,docker,aws,azure,gcp,oracle&theme=dark" alt="Skills" />
 </p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=imkaleemahmad&abbreviated=true)
