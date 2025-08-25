@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Kaleem Ahmad | ![](https://komarev.com/ghpvc/?username=imkaleemahmad&abbreviated=true)
+# 👋 Hello, I’m Kaleem Ahmad | ![](https://komarev.com/ghpvc/?username=imkaleemahmad&style=for-the-badge)
 
 I’m a Computer Scientist from **Peshawar, Pakistan**, passionate about using **AI**, **Machine Learning**, and **Computer Vision** to solve real-world problems and improve lives. I love exploring new technologies, especially those that bring intelligence to machines, insight to data, and creativity to apps.
 
