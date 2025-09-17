@@ -67,7 +67,7 @@ The University of Agriculture, Peshawar (2020–2024)
 
 ---
 
-> ⚡ *Curious about AI? Working on medical imaging or a data-heavy product? Let’s build something intelligent together.*
+⚡ *Curious about AI? Working on medical imaging or a data-heavy product? Let’s build something intelligent together.*
 
 ---
 
