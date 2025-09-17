@@ -26,30 +26,6 @@ The University of Agriculture, Peshawar (2020–2024)
 
 ---
 
-## 💡 Key Projects & Research Work
-
-### 🔬 Prompt-Driven Image Analysis
-Built a generative AI system that performs image segmentation and transformation using text prompts with 94% accuracy.  
-**Tech:** PyTorch, Transformers, CLIP, GANs, OpenCV
-
-### 👤 3D Face Reconstruction from 2D Images
-Real-time system for reconstructing 3D facial models using deep learning (30 FPS).  
-**Tech:** CNN, WebGL, PCA, ResNet-50, PyTorch
-
-### 👁️ Nystagmus Detection via Retina Tracking
-Medical-grade tool for detecting eye movement disorders using deep learning (92% specificity).  
-**Tech:** TensorFlow, CNN-LSTM, OpenCV, GPU
-
-### 🧿 Eye Disease Detection with Meta’s SAM
-Used Meta AI’s Segment Anything Model for sclera segmentation, achieving 96% IoU.  
-**Tech:** PyTorch, SAM, Medical Imaging Libraries
-
-### 📘 Interactive Language Learning Platform
-Educational platform combining language, audio, and embedded content in documents.  
-**Tech:** TypeScript, HTML, Bootstrap, JavaScript
-
----
-
 ## 🧠 Work Experience
 
 ### 🔬 Data Scientist @ **Demolytics Ltd (UK)** | *Dec 2024 – Present*
